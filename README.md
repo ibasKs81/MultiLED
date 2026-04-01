@@ -1,4 +1,4 @@
-# Simulasi Sistem Kendali Lampu Lalu Lintas Simpang Empat Berbasis Arduino
+# Simulasi Sistem mikro Lampu Lalu Lintas Simpang Empat Berbasis Arduino
 
 Proyek ini merupakan sebuah implementasi sistem kendali lampu lalu lintas untuk persimpangan jalan empat arah yang dirancang menggunakan papan pengembangan Arduino Uno guna mensimulasikan pengaturan arus kendaraan secara otomatis dan teratur. Logika program ini bekerja dengan memastikan bahwa hanya satu jalur yang mendapatkan akses lampu hijau dalam satu waktu secara bergantian, sementara tiga jalur lainnya tetap berada pada posisi lampu merah demi menjaga keamanan dan mencegah terjadinya tabrakan di titik temu persimpangan. Seluruh alur kerja sistem dikendalikan melalui manipulasi pin digital yang mengatur transisi warna dari hijau ke kuning sebagai peringatan, hingga kembali ke warna merah dengan durasi yang telah disesuaikan untuk mencerminkan kondisi operasional lampu jalan pada umumnya.
 
